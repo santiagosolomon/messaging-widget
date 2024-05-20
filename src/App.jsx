@@ -15,12 +15,39 @@ function App() {
           <IoMdClose className="text-lg" />
         </div> */}
         <div className="h-[40rem] bg-gray-100">
-          <div className=" flex flex-row p-8 gap-4 max-w-[700px] max-h-screen "> 
-             <div className="rounded-2xl bg-white w-full max-w-8 h-8  "></div>
-             <div className=" border rounded-b-lg rounded-tr-lg h-full min-h-[100px] w-auto  bg-white p-2 mx-2">Hsey, I'm chat bot what do you want me to do? Hey, I'm chat bot what do you want me to do? Hey, I'm chat bot what do you want me to do? Hey, I'm chat bot what do you want me to do? Hey, I'm chat bot what do you want me to do? Hey, I'm chat bot what do you want me to do?dsdsdadadsadsadsadsadsadadsadadadsdadadsadadsadadadsadad dsdsdsdsdddddsadasdsadsadsdsadasdsadsadsaddsadsdsadsaddddddsddddd</div>
+          <div className=" flex flex-row p-8 gap-4 ">
+            <div className="  max-w-[800px] border rounded-b-lg rounded-tr-lg h-full min-h-[100px] w-auto  bg-white p-2 mx-2 break-words ">
+              <span>
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                Eveniet laborum, veniam corrupti eligendi repellat veritatis in
+                doloremque. Accusantium fuga suscipit aperiam minima porro saepe
+                ea perferendis sed at minus sint, placeat deleniti, blanditiis
+                atque magnam sequi laborum repellat, dolore cupiditate! Debitis,
+                illo? Voluptas blanditiis officiis, magnam natus aspernatur
+                accusantium, quod ducimus a dolor atque cupiditate quisquam
+                ipsum ab praesentium sed incidunt rem consequatur. Dicta vero
+                totam nisi. Natus perferendis et iusto nulla facere voluptatem
+                earum quaerat. Eligendi accusantium adipisci incidunt
+                cupiditate, ipsam voluptatibus corporis sed excepturi similique,
+                placeat non dignissimos repellat fugit? Asperiores rerum enim
+                illum et officia cupiditate, error nemo sint, aliquam
+                perspiciatis sunt quo molestiae reprehenderit eum modi neque
+                fugiat, rem animi labore? Eveniet obcaecati iusto at aliquam,
+                minima vero commodi nulla facere odio voluptatem porro adipisci
+                nobis, autem qui dolorem architecto blanditiis dolores earum
+                quod sequi voluptates. Placeat dignissimos et perferendis
+                adipisci? Cupiditate ab laborum at suscipit voluptates! Error in
+                fugit autem animi pariatur tempore ducimus, accusantium
+                molestias accusamus exercitationem ratione placeat asperiores
+                quam. Rerum nobis commodi, possimus explicabo quasi molestiae,
+                ea quod mollitia cumque illasdsaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaasdjsahdjkashkdjhsajkdhkajshdkjsajhaghskjahgkjsahgkjashgjkhsajkghasjkhgjksahgjkashgksajhgakjshgjkashgjkashkgjashdkjshajkdhsajkdhjksahdjksahdasjkhdkjashdjkashdkjsahdksasjdhsakjhdkjsahdjkashdjkashdkjahskdjdsad
+              </span>
+            </div>
           </div>
-          <div className="w-full flex justify-end p-4 ">
-             <div className=" border rounded-b-lg rounded-tl-lg h-full max-h-auto w-full max-w-[15rem] p-2 bg-blue-500 text-white ">dsasssssssssssssssddsads</div>
+          <div className="w-full flex justify-end p-4 max-w-[700px] ">
+            <div className=" border rounded-b-lg rounded-tl-lg h-full max-h-auto w-full max-w-[15rem] p-2 bg-blue-500 text-white ">
+              dsasssssssssssssssddsads
+            </div>
           </div>
         </div>
         <form>
