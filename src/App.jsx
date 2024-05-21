@@ -11,12 +11,12 @@ function App() {
     <>
     <div className="h-screen">
       <div className="  border rounded-xl shadow">
-        {/* <div className="flex justify-between p-4 items-center h-24 bg-gray-400 max-w-full w-full">
+        <div className="flex justify-between p-4 items-center h-24 bg-gray-400 max-w-full w-full">
           <div className="flex justify-center max-w-[7xl] w-full font- ">
             Help Bot
           </div>
           <IoMdClose className="text-lg" />
-        </div> */}
+        </div>
         <div className="h-[47rem] bg-gray-100 overflow-auto">
           <div className=" flex flex-row p-8 gap-4 ">
             <div className="rounded-2xl bg-white w-full max-w-8 h-8 max-[575px]:w-[85rem] "></div>
