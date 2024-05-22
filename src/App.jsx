@@ -5,7 +5,7 @@ import "./App.css";
 import { IoMdClose } from "react-icons/io";
 
 function App() {
-  //  const [text, setText] = useState("dsadsadadsadsdsadsaddsadsaddaaaa");
+  // const [count, setCount] = useState(0);
 
   return (
     <>
@@ -20,8 +20,8 @@ function App() {
             <div className=" flex flex-row p-8  ">
               <div className="rounded-2xl bg-white w-full max-w-8 h-8 max-[575px]:w-[85rem] "></div>
               <div className="flex flex-col w-full">
-                <div className=" float-left inline-block  whitespace-nowrap overflow-hidden   border rounded-b-lg rounded-tr-lg bg-white p-2 mx-2 break-words  ">
-                 dasdssadsdsadsd
+                <div className=" inline-block float-left whitespace-nowrap w-full max-w-auto  border rounded-b-lg rounded-tr-lg bg-white p-2 mx-2 break-words  ">
+                  <div className=" "> Lorem ipsum dolodsadsdssrdsadsadsadsadsdasdadsadsadsdsaaa</div>
                 </div>
                 <div className="w-full flex justify-end p-4 max-w-[7000px] ">
                   <div className=" border rounded-b-lg rounded-tl-lg h-full max-h-auto w-full p-2 bg-blue-500 text-white max-w-[30rem] break-words ">
