@@ -20,17 +20,12 @@ function App() {
             <div className=" flex flex-row p-8  ">
               <div className="rounded-2xl bg-white w-full max-w-8 h-8 max-[575px]:w-[85rem] "></div>
               <div className="flex flex-col w-full">
-                <div className=" inline-block float-left whitespace-nowrap w-full max-w-auto  border rounded-b-lg rounded-tr-lg bg-white p-2 mx-2 break-words  ">
-                  <div className=" "> Lorem ipsum dolodsadsdssrdsadsadsadsadsdasdadsadsadsdsaaa</div>
+                <div className=" inline-block float-left whitespace-nowrap w-full max-w-[27rem]  border rounded-b-lg rounded-tr-lg bg-white p-2 mx-2 break-words  ">
+                  <div className=" "> Lorem ipsum dolor sit amet consectetur, adipisicing elit. </div>
                 </div>
                 <div className="w-full flex justify-end p-4 max-w-[7000px] ">
                   <div className=" border rounded-b-lg rounded-tl-lg h-full max-h-auto w-full p-2 bg-blue-500 text-white max-w-[30rem] break-words ">
-                    dsasssssssssssssssddsads placeat non dignissimos repellat
-                    fugit? Asperiores rerum enim nobis, autem qui dolorem
-                    architecto blanditiis dolores earum quod sequi voluptates.
-                    Placeat dignissimos et perferendis adipisci? Cupiditate ab
-                    laborum at suscipit voluptates! Error in fugit autem animi
-                    pariatur tempore ducimus, accusantium molestias accusamus
+                    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus officiis mollitia totam repellat excepturi similique a saepe, accusantium consequuntur sequi libero, dolores natus quam, deleniti debitis nemo. Laboriosam, voluptatem neque?
                   </div>
                 </div>
               </div>
